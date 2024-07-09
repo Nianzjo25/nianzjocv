@@ -1,16 +1,16 @@
 // Exemple de données de témoignages (à remplacer par les données réelles récupérées depuis le serveur)
 var testimonialsData = [
     {
-      message: "Contenu du témoignage 1",
-      name: "Nom du Témoin 1",
-      profession: "Profession du Témoin 1",
+      message: "Grâce à la formation en logiciel bureautique dispensée par Nianzou Joseph, j'ai acquis des compétences précieuses qui m'ont été très utiles dans mes études et ma carrière. Je recommande fortement ses cours pour leur clarté et leur efficacité.",
+      name: "Otete Henock Josué",
+      profession: "Etudiant",
       rating: 5,
-      image: "chemin/vers/image1.jpg"
+      image: "assets/img/testimonials/testimonials-1.jpg"
     },
     {
-      message: "Contenu du témoignage 2",
-      name: "Nom du Témoin 2",
-      profession: "Profession du Témoin 2",
+      message: "Grâce à l'aide précieuse de Nianzou Joseph, j'ai pu résoudre des problèmes complexes et améliorer significativement notre application. Son expertise et son dévouement ont été essentiels pour atteindre nos objectifs.",
+      name: "Gnimassou Othniel",
+      profession: "Developpeur Full-Stark",
       rating: 4,
       image: "chemin/vers/image2.jpg"
     }
